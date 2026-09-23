@@ -19,7 +19,7 @@ I am fortunate to be advised by Prof. Haining Zhang and [Prof. Nan Gao](https://
 
 <a id="news"></a>
 
-# 🔥 News
+# 📑 News
 
 * **Sep. 2026** — Our paper on large-scale smartphone user experience analysis was recommended for acceptance by ACM IMWUT/Ubicomp, pending minor revisions.
 * **Sep. 2026** — Started a user study on how university students judge and respond to uncertain scam risks, as part of our ongoing research on interactive anti-scam training.
