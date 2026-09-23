@@ -9,17 +9,23 @@ redirect_from:
 
 ---
 
+<a id="about"></a>
+
 I am a Ph.D. student at the [College of Software](https://cs.nankai.edu.cn/), [Nankai University](https://www.nankai.edu.cn/). My research interests lie broadly in **Human-Computer Interaction (HCI)** and **Human-AI Interaction**.
 
 My current research focuses on understanding and designing human-centered intelligent systems for **digital safety**, **AI-mediated education and intervention**, and **user experience**. I am particularly interested in how interactive and AI-powered systems can support people's judgment, decision-making, and protective behaviors in uncertain real-world situations.
 
 I am fortunate to be advised by Prof. Haining Zhang and [Prof. Nan Gao](https://nancygao.com/) at Nankai University.
 
+<a id="news"></a>
+
 # 🔥 News
 
 * **Sep. 2026** — Our paper on large-scale smartphone user experience analysis was recommended for acceptance by ACM IMWUT/Ubicomp, pending minor revisions.
 * **Sep. 2026** — Started a user study on how university students judge and respond to uncertain scam risks, as part of our ongoing research on interactive anti-scam training.
 * **2026** — Working on human-centered AI systems for campus safety education, safety information support, and risk communication.
+
+<a id="research"></a>
 
 # 🔬 Research
 
@@ -41,6 +47,7 @@ I also work on methods for understanding user experience at scale. One line of m
 
 I am interested in combining computational methods with human-centered evaluation to understand user experience across devices, platforms, and everyday computing contexts.
 
+<a id="education"></a>
 
 # 🎓 Education
 
@@ -54,6 +61,8 @@ Advisor: Prof. Haining Zhang and [Prof. Nan Gao](https://nancygao.com/)
 ### Nankai University
 
 **Bachelor's Degree in Software Engineering**, 2020 – 2024
+
+<a id="links"></a>
 
 # 🔗 Links
 
